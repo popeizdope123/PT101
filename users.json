@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "companyName": "Acme Corporation",
+        "employees": "Employee1",
+        "positions": "CEO",
+        "location": "New York"
+    },
+    {
+        "id": 2,
+        "companyName": "Tech Solutions Ltd.",
+        "employees": "Employee2",
+        "positions": "Software Developer",
+        "location": "San Francisco"
+    },
+    {
+        "id": 3,
+        "companyName": "Global Innovations Inc.",
+        "employees": "Employee3",
+        "positions": "Marketing Specialist",
+        "location": "London"
+    },
+    {
+        "id": 4,
+        "companyName": "Star Enterprises",
+        "employees": "Employee4",
+        "positions": "Marketing Specialist",
+        "location": "London"
+    }
+]
